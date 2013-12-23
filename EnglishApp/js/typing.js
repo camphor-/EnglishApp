@@ -18,7 +18,7 @@ setTypingPosition = function(pos) {
 isReady = false;
 
 typing = "";
-
+isFinish = false;
 pos = 0;
 
 startTime = new Date();
@@ -133,23 +133,26 @@ $(window).keydown(function (e) {
   var letter;
   letter = keycode_dictionary[e.keyCode];
   is_shift = e.shiftKey;
-  //大文字判定 -1
-  is_large_word = typing[pos].indexOf(typing[pos].toLowerCase());
-  console.log(e.keyCode);
-  console.log(letter);
-  console.log(typing[pos]);
-  checked_word = typing[pos];
+    //大文字判定 -1
+  if (isFinish != true) {
 
-  if (checked_word == "’") {
-     checked_word = "'"
-  }
+      is_large_word = typing[pos].indexOf(typing[pos].toLowerCase());
+      console.log(e.keyCode);
+      console.log(letter);
+      console.log(typing[pos]);
+      checked_word = typing[pos];
 
-  if (letter) {
-      if (is_large_word == -1 && is_shift == 1) {
-          small_letter = checked_word.toLowerCase();
-          check_word(letter, small_letter);
-      } else {
-          check_word(letter, checked_word);
+      if (checked_word == "’") {
+          checked_word = "'"
+      }
+
+      if (letter) {
+          if (is_large_word == -1 && is_shift == 1) {
+              small_letter = checked_word.toLowerCase();
+              check_word(letter, small_letter);
+          } else {
+              check_word(letter, checked_word);
+          }
       }
   }
   return true;
@@ -166,6 +169,7 @@ function check_word(letter, check_letter) {
                 question_clear_num += 1;
                 get_question(question_array[question_clear_num]);
             } else {
+                isFinish = true;;
                 show_result();
             }
         } else {
