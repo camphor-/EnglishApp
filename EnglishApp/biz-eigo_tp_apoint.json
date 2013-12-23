@@ -1,0 +1,487 @@
+{
+  "contents": [
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I have to cancel your appointment for tomorrow. I'm extremely sorry for any inconvenience caused.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが明日の面会をキャンセルせざるをえなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Sorry to tell you that we have to cancel the meeting due to our schedule conflict.", 
+      "wisdom": "申し訳ありませんが弊社の都合により不可能となりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Owing to our bankruptcy, I'm afraid we have to cancel our appointment.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが、倒産のためアポイントをキャンセルせざるを得なくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry, I can not attend the meeting next Monday because of my work.", 
+      "wisdom": "すみませんが、次の月曜日に予定していたミーティングに、私の個人的な仕事の都合のため行けなくなりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry, Mr. Baker, of our company, can not go today at nine.", 
+      "wisdom": "申し訳ございません、弊社ベイカーは、本日9時に参れません。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry. I must cancel our appointment.", 
+      "wisdom": "申し訳ありませんが、お約束を取り消さなくてはならないのです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "He is off sick today.", 
+      "wisdom": "彼は今日病気のため不在です。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I can not attend the meeting.", 
+      "wisdom": "会議に出席出来ないんです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry to cancel our appointment. Could we reschedule it for next week? ", 
+      "wisdom": "予定をキャンセルして大変申し訳ありませんが、来週改めてお会いすることはできませんでしょうか。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Thank you for your kind invitation, but I just learned I have to go on a business trip tomorrow.", 
+      "wisdom": "せっかくの招待ですが、明日、急に出張することになってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Good afternoon. This is the ABC company. How can I help you?", 
+      "wisdom": "こんにちは、ABC株式会社ですが。ご用件をお伺い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm Hirobumi Ito of the CNN company. I would like to speak to Mr. Baker.", 
+      "wisdom": "CNN株式会社の伊藤博文ですが。ベイカー部長をお願い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Unfortunately, Baker is going out. I take a message.", 
+      "wisdom": "あいにく、ベイカーは外出中です。伝言を承ります。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Regretfully, I have to inform you that I will not be able to attend our proposed meeting, and shall therefore have to cancel.", 
+      "wisdom": "申し訳ございませんが、急きょ不都合が生じ、お会いすることができなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I see. No problem. Thanks for letting me know.", 
+      "wisdom": "わかりました。問題ありません。お知らせくださりどうもありがとうございます。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm sorry. I wait for next communication.", 
+      "wisdom": "申し訳ございません。又のご連絡をお待ち致しております。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I have to cancel your appointment for tomorrow. I'm extremely sorry for any inconvenience caused.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが明日の面会をキャンセルせざるをえなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Sorry to tell you that we have to cancel the meeting due to our schedule conflict.", 
+      "wisdom": "申し訳ありませんが弊社の都合により不可能となりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Owing to our bankruptcy, I'm afraid we have to cancel our appointment.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが、倒産のためアポイントをキャンセルせざるを得なくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry, I can not attend the meeting next Monday because of my work.", 
+      "wisdom": "すみませんが、次の月曜日に予定していたミーティングに、私の個人的な仕事の都合のため行けなくなりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry, Mr. Baker, of our company, can not go today at nine.", 
+      "wisdom": "申し訳ございません、弊社ベイカーは、本日9時に参れません。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry. I must cancel our appointment.", 
+      "wisdom": "申し訳ありませんが、お約束を取り消さなくてはならないのです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "He is off sick today.", 
+      "wisdom": "彼は今日病気のため不在です。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I can not attend the meeting.", 
+      "wisdom": "会議に出席出来ないんです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry to cancel our appointment. Could we reschedule it for next week? ", 
+      "wisdom": "予定をキャンセルして大変申し訳ありませんが、来週改めてお会いすることはできませんでしょうか。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Thank you for your kind invitation, but I just learned I have to go on a business trip tomorrow.", 
+      "wisdom": "せっかくの招待ですが、明日、急に出張することになってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Good afternoon. This is the ABC company. How can I help you?", 
+      "wisdom": "こんにちは、ABC株式会社ですが。ご用件をお伺い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm Hirobumi Ito of the CNN company. I would like to speak to Mr. Baker.", 
+      "wisdom": "CNN株式会社の伊藤博文ですが。ベイカー部長をお願い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Unfortunately, Baker is going out. I take a message.", 
+      "wisdom": "あいにく、ベイカーは外出中です。伝言を承ります。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Regretfully, I have to inform you that I will not be able to attend our proposed meeting, and shall therefore have to cancel.", 
+      "wisdom": "申し訳ございませんが、急きょ不都合が生じ、お会いすることができなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I see. No problem. Thanks for letting me know.", 
+      "wisdom": "わかりました。問題ありません。お知らせくださりどうもありがとうございます。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm sorry. I wait for next communication.", 
+      "wisdom": "申し訳ございません。又のご連絡をお待ち致しております。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I have to cancel your appointment for tomorrow. I'm extremely sorry for any inconvenience caused.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが明日の面会をキャンセルせざるをえなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Sorry to tell you that we have to cancel the meeting due to our schedule conflict.", 
+      "wisdom": "申し訳ありませんが弊社の都合により不可能となりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Owing to our bankruptcy, I'm afraid we have to cancel our appointment.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが、倒産のためアポイントをキャンセルせざるを得なくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry, I can not attend the meeting next Monday because of my work.", 
+      "wisdom": "すみませんが、次の月曜日に予定していたミーティングに、私の個人的な仕事の都合のため行けなくなりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry, Mr. Baker, of our company, can not go today at nine.", 
+      "wisdom": "申し訳ございません、弊社ベイカーは、本日9時に参れません。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry. I must cancel our appointment.", 
+      "wisdom": "申し訳ありませんが、お約束を取り消さなくてはならないのです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "He is off sick today.", 
+      "wisdom": "彼は今日病気のため不在です。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I can not attend the meeting.", 
+      "wisdom": "会議に出席出来ないんです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry to cancel our appointment. Could we reschedule it for next week? ", 
+      "wisdom": "予定をキャンセルして大変申し訳ありませんが、来週改めてお会いすることはできませんでしょうか。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Thank you for your kind invitation, but I just learned I have to go on a business trip tomorrow.", 
+      "wisdom": "せっかくの招待ですが、明日、急に出張することになってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Good afternoon. This is the ABC company. How can I help you?", 
+      "wisdom": "こんにちは、ABC株式会社ですが。ご用件をお伺い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm Hirobumi Ito of the CNN company. I would like to speak to Mr. Baker.", 
+      "wisdom": "CNN株式会社の伊藤博文ですが。ベイカー部長をお願い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Unfortunately, Baker is going out. I take a message.", 
+      "wisdom": "あいにく、ベイカーは外出中です。伝言を承ります。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Regretfully, I have to inform you that I will not be able to attend our proposed meeting, and shall therefore have to cancel.", 
+      "wisdom": "申し訳ございませんが、急きょ不都合が生じ、お会いすることができなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I see. No problem. Thanks for letting me know.", 
+      "wisdom": "わかりました。問題ありません。お知らせくださりどうもありがとうございます。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm sorry. I wait for next communication.", 
+      "wisdom": "申し訳ございません。又のご連絡をお待ち致しております。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I have to cancel your appointment for tomorrow. I'm extremely sorry for any inconvenience caused.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが明日の面会をキャンセルせざるをえなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Sorry to tell you that we have to cancel the meeting due to our schedule conflict.", 
+      "wisdom": "申し訳ありませんが弊社の都合により不可能となりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Owing to our bankruptcy, I'm afraid we have to cancel our appointment.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが、倒産のためアポイントをキャンセルせざるを得なくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry, I can not attend the meeting next Monday because of my work.", 
+      "wisdom": "すみませんが、次の月曜日に予定していたミーティングに、私の個人的な仕事の都合のため行けなくなりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry, Mr. Baker, of our company, can not go today at nine.", 
+      "wisdom": "申し訳ございません、弊社ベイカーは、本日9時に参れません。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry. I must cancel our appointment.", 
+      "wisdom": "申し訳ありませんが、お約束を取り消さなくてはならないのです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "He is off sick today.", 
+      "wisdom": "彼は今日病気のため不在です。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I can not attend the meeting.", 
+      "wisdom": "会議に出席出来ないんです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry to cancel our appointment. Could we reschedule it for next week? ", 
+      "wisdom": "予定をキャンセルして大変申し訳ありませんが、来週改めてお会いすることはできませんでしょうか。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Thank you for your kind invitation, but I just learned I have to go on a business trip tomorrow.", 
+      "wisdom": "せっかくの招待ですが、明日、急に出張することになってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Good afternoon. This is the ABC company. How can I help you?", 
+      "wisdom": "こんにちは、ABC株式会社ですが。ご用件をお伺い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm Hirobumi Ito of the CNN company. I would like to speak to Mr. Baker.", 
+      "wisdom": "CNN株式会社の伊藤博文ですが。ベイカー部長をお願い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Unfortunately, Baker is going out. I take a message.", 
+      "wisdom": "あいにく、ベイカーは外出中です。伝言を承ります。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Regretfully, I have to inform you that I will not be able to attend our proposed meeting, and shall therefore have to cancel.", 
+      "wisdom": "申し訳ございませんが、急きょ不都合が生じ、お会いすることができなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I see. No problem. Thanks for letting me know.", 
+      "wisdom": "わかりました。問題ありません。お知らせくださりどうもありがとうございます。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm sorry. I wait for next communication.", 
+      "wisdom": "申し訳ございません。又のご連絡をお待ち致しております。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I have to cancel your appointment for tomorrow. I'm extremely sorry for any inconvenience caused.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが明日の面会をキャンセルせざるをえなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Sorry to tell you that we have to cancel the meeting due to our schedule conflict.", 
+      "wisdom": "申し訳ありませんが弊社の都合により不可能となりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Owing to our bankruptcy, I'm afraid we have to cancel our appointment.", 
+      "wisdom": "大変ご迷惑をおかけいたしますが、倒産のためアポイントをキャンセルせざるを得なくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry, I can not attend the meeting next Monday because of my work.", 
+      "wisdom": "すみませんが、次の月曜日に予定していたミーティングに、私の個人的な仕事の都合のため行けなくなりました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry, Mr. Baker, of our company, can not go today at nine.", 
+      "wisdom": "申し訳ございません、弊社ベイカーは、本日9時に参れません。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m very sorry. I must cancel our appointment.", 
+      "wisdom": "申し訳ありませんが、お約束を取り消さなくてはならないのです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "He is off sick today.", 
+      "wisdom": "彼は今日病気のため不在です。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I can not attend the meeting.", 
+      "wisdom": "会議に出席出来ないんです。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I’m sorry to cancel our appointment. Could we reschedule it for next week? ", 
+      "wisdom": "予定をキャンセルして大変申し訳ありませんが、来週改めてお会いすることはできませんでしょうか。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Thank you for your kind invitation, but I just learned I have to go on a business trip tomorrow.", 
+      "wisdom": "せっかくの招待ですが、明日、急に出張することになってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Good afternoon. This is the ABC company. How can I help you?", 
+      "wisdom": "こんにちは、ABC株式会社ですが。ご用件をお伺い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm Hirobumi Ito of the CNN company. I would like to speak to Mr. Baker.", 
+      "wisdom": "CNN株式会社の伊藤博文ですが。ベイカー部長をお願い致します。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Unfortunately, Baker is going out. I take a message.", 
+      "wisdom": "あいにく、ベイカーは外出中です。伝言を承ります。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "Regretfully, I have to inform you that I will not be able to attend our proposed meeting, and shall therefore have to cancel.", 
+      "wisdom": "申し訳ございませんが、急きょ不都合が生じ、お会いすることができなくなってしまいました。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I see. No problem. Thanks for letting me know.", 
+      "wisdom": "わかりました。問題ありません。お知らせくださりどうもありがとうございます。"
+    }, 
+    {
+      "comment": "", 
+      "image": "", 
+      "typing": "I'm sorry. I wait for next communication.", 
+      "wisdom": "申し訳ございません。又のご連絡をお待ち致しております。"
+    }
+  ], 
+  "explain": "", 
+  "image": "./img/english_appointment.jpg", 
+  "title": "英会話フレーズ(アポイントメント編)"
+}
